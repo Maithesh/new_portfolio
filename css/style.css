@@ -207,6 +207,7 @@ nav {
   .para1:hover{
     box-shadow:initial;
     border-radius: initial;
-  
+    background-color:initial;
+    color:initial;
   }
 }
