@@ -204,4 +204,9 @@ nav {
     text-align: justify;
     padding: 30px;
   }
+  .para1:hover{
+    box-shadow:initial;
+    border-radius: initial;
+  
+  }
 }
