@@ -150,6 +150,9 @@ nav {
     align-items: baseline;
     padding: 0;
   }
+  .title1{
+    color: white;
+  }
   .para1 {
     background-color: #000000;
     color:white;
@@ -194,6 +197,9 @@ nav {
   .profile {
     height: 70vh;
     width: 70vh;
+  }
+  .title1{
+    color: white;
   }
   .para1 {
     background-color: #000000;
